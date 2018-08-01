@@ -150,7 +150,7 @@ class PlayerTracking:
 
 
 class PlayByPlay:
-    _endpoint = 'playbyplay'
+    _endpoint = 'playbyplayv2'
 
     def __init__(self,
                  game_id,
